@@ -14,6 +14,6 @@ Clone the repo to your local machine:
 
 `git clone http://github.com/filipnathanel/super-wave`
 
-Then cd into the `super-wave` directory and execute `npm install`
+Then cd into the `super-wave` directory and execute `npm install` and `bower install`
 
 After the npm will have finished installing you should be able to simply `gulp serve` to start up a server with livereload.
